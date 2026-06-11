@@ -1,0 +1,52 @@
+# Virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# Virtual environment configurations
+.env
+.env.*
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# IDE settings
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.sqlite3
+
+# Model checkpoints and data caches
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.backup
+
