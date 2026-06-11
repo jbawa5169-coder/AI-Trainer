@@ -4,15 +4,6 @@ This project is an AI-powered application that leverages Computer Vision, Pose E
 
 Datasets available at "https://www.kaggle.com/datasets/riccardoriccio/real-time-exercise-recognition-dataset" (Kaggle) or "https://huggingface.co/datasets/RickyRiccio/Real_Time_Exercise_Recognition_Dataset" (Hugging Face).
 
-This project is based on the paper: "Real-Time Fitness Exercise Classification and Counting from Video Frames"
-
-Link to the paper: "https://arxiv.org/abs/2411.11548"
-
-Feel free to Contact me at: riccardopersonalmail@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/riccardo-riccio-bb7163296/
-
-(Give a star ⭐ to the repository if it was useful. Thank you! 😊)
 
 ## Demo
 
@@ -129,14 +120,7 @@ The chatbot feature utilizes OpenAI's GPT-3.5-turbo model to answer fitness-rela
 ## Technologies Used
 
 - **Pose Estimation**: Utilizes MediaPipe to extract key body landmarks and monitor movement.
-- **Machine Learning**: LSTM and BiLSTM models for real-time exercise classification.
+- **Machine Learning**: BiLSTM models for real-time exercise classification.
 - **Streamlit**: Provides the web interface for user interaction.
 - **Python Libraries**: Includes OpenCV, MediaPipe, Streamlit, and others for backend processing.
 
-## Cite
-@article{riccio2024real,
-  title={Real-time fitness exercise classification and counting from video frames},
-  author={Riccio, Riccardo},
-  journal={arXiv preprint arXiv:2411.11548},
-  year={2024}
-}
